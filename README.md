@@ -16,6 +16,8 @@ Cypress.json
     	"viewportWidth": 1920,
     	"testFiles": "**/*.spec.js"
     }
+    
+    
     ( for "baseUrl": "https://localhost:4200", )
     ( change the testFiles according to what file type you using )
 
@@ -24,6 +26,8 @@ Package.json
     "scripts": {
     		"test": "cypress open"
     }
+    
+    
     ( This is optional, it will allow you to run cypress with the command:
     npm run test )
 
