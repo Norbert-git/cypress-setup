@@ -19,6 +19,7 @@ Cypress.json
     
     
    ( for "baseUrl": "https://localhost:4200", )
+   
    ( change the testFiles according to what file type you using )
 
 Package.json
@@ -28,7 +29,7 @@ Package.json
     }
     
     
-    ( This is optional, it will allow you to run cypress with the command:
+   ( This is optional, it will allow you to run cypress with the command:
     npm run test )
 
 Add .gitignore file
