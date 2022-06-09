@@ -18,8 +18,8 @@ Cypress.json
     }
     
     
-    ( for "baseUrl": "https://localhost:4200", )
-    ( change the testFiles according to what file type you using )
+   ( for "baseUrl": "https://localhost:4200", )
+   ( change the testFiles according to what file type you using )
 
 Package.json
 
